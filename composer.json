@@ -1,0 +1,23 @@
+{
+    "name": "ehsan-coder/resource-methods",
+    "description": "this package added new methods to modified your api resource, such as you can use only or except methods to customize your api resources when use in controllers.",
+    "keywords": ["resource", "laravel resource", "resource API", "laravel"],
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "EhsanCoder\\ResourceMethods\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ehsan Shafiei",
+            "email": "msc.shafiei@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.2|^8.0",
+        "laravel/framework": "^7.0|^8.0|^9.0|^10.0"
+    }
+}
