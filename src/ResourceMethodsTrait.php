@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Traits;
+namespace EhsanCoder\ResourceMethods;
 
 use Illuminate\Http\Resources\MissingValue;
 
